@@ -1,0 +1,184 @@
+{
+    "Projects": {
+        "C++": ["CPPEMU", "CPPEMU-Compiler", "NetworkPulse", "Shell", "cppBASIC", "cpp_console_colour", "fancy_uptime", "nice_crash", "nice_verbose", "quickc", "shutdown_plus_plus"],
+        "Python": ["AudioVis", "CaesarPlus", "Datashredder", "Downtime_Diary", "FRNG", "ImgVis", "MCSS", "Neo_PYSF", "OpenSky", "PMAP", "PYSF", "PyIPscan", "Pykeygen", "RKBD", "SSHPY", "YAMLscan", "deps_check", "hash-util", "img_noise", "img_script", "imgmin", "jsonreg", "pstat", "pylog", "simplesign", "usage_tracer", "zip_crack"],
+        "Java": ["ArgTester", "PingWatch", "JScan", "PixelCanvas", "XC"]
+    },
+    "Meta": {
+        "CPPEMU": {
+            "Description": "A simple emulator for a instruction set i made up.",
+            "Type": "APPLICATION"
+        },
+        "CPPEMU-Compiler": {
+            "Description": "A compiler for CPPEMU Emulator.",
+            "Type": "APPLICATION"
+        },
+        "NetworkPulse": {
+            "Description": "A simple arp table like tool to see if clients are connected and alive on the network.",
+            "Type": "APPLICATION"
+        },
+        "Shell": {
+            "Description": "A simple shell made in C++",
+            "Type": "APPLICATION"
+        },
+        "cppBASIC": {
+            "Description": "A simple BASIC like interpreter in C++",
+            "Type": "APPLICATION"
+        },
+        "cpp_console_colour": {
+            "Description": "Console colour is a simple header file to add colour to your console output.",
+            "Type": "LIBRARY"
+        },
+        "fancy_uptime": {
+            "Description": "",
+            "Type": "APPLICATION"
+        },
+        "nice_crash": {
+            "Description": "A simple header file to create nice crash message output.",
+            "Type": "LIBRARY"
+        },
+        "nice_verbose": {
+            "Description": "A simple header file to create nice verbose output.",
+            "Type": "LIBRARY"
+        },
+        "quickc": {
+            "Description": "A C/C++ quick runner for testing small snippets of C/C++ code.",
+            "Type": "APPLICATION"
+        },
+        "shutdown_plus_plus": {
+            "Description": "",
+            "Type": "APPLICATION"
+        },
+
+        "AudioVis": {
+            "Description": "Visualise audio with graphs.",
+            "Type": "LIBRARY"
+        },
+        "CaesarPlus": {
+            "Description": "An advanced caesar cypher python module",
+            "Type": "APPLICATION"
+        },
+        "Datashredder": {
+            "Description": "A simple data corruption engine written in python",
+            "Type": "APPLICATION"
+        },
+        "Downtime_Diary": {
+            "Description": "A simple and lightweight downtime logger for your linux server",
+            "Type": "APPLICATION"
+        },
+        "FRNG": {
+            "Description": "Create random binary file from a image containing fire",
+            "Type": "LIBRARY"
+        },
+        "ImgVis": {
+            "Description": "A simple api to create minified images",
+            "Type": "LIBRARY"
+        },
+        "MCSS": {
+            "Description": "Multi channel sound system",
+            "Type": "LIBRARY"
+        },
+        "Neo_PYSF": {
+            "Description": "The new version of PYSF. A metasploit-like framework but for python scripts instead of exploits.",
+            "Type": "APPLICATION"
+        },
+        "OpenSky": {
+            "Description": "A repository of open source sky images.",
+            "Type": "DATASET"
+        },
+        "PMAP": {
+            "Description": "A simple image format that is human readable and editable",
+            "Type": "APPLICATION"
+        },
+        "PYSF": {
+            "Description": "A project similar to Metasploit but made in python and not just exploits.",
+            "Type": "FRAMEWORK"
+        },
+        "PyIPscan": {
+            "Description": "Picks random IP addresses and scans them for open HTTP and HTTPS ports.",
+            "Type": "APPLICATION"
+        },
+        "Pykeygen": {
+            "Description": "A key generator made in python",
+            "Type": "LIBRARY"
+        },
+        "RKBD": {
+            "Description": "Remote keyboard in python",
+            "Type": "APPLICATION"
+        },
+        "SSHPY": {
+            "Description": "",
+            "Type": "APPLICATION"
+        },
+        "YAMLscan": {
+            "Description": "Finds thing in files with a given YAML rule.",
+            "Type": "APPLICATION"
+        },
+        "deps_check": {
+            "Description": "Run a set of tests or checks to see if commands run successfully or files exist",
+            "Type": "APPLICATION"
+        },
+        "hash-util": {
+            "Description": "Work with file hashes easier than ever",
+            "Type": "LIBRARY"
+        },
+        "img_noise": {
+            "Description": "A simple api to create minified images",
+            "Type": "LIBRARY"
+        },
+        "img_script": {
+            "Description": "",
+            "Type": "APPLICATION"
+        },
+        "imgmin": {
+            "Description": "A simple api to create minified images",
+            "Type": "LIBRARY"
+        },
+        "jsonreg": {
+            "Description": "Quickly create json keys to store data",
+            "Type": "LIBRARY"
+        },
+        "pstat": {
+            "Description": "A faster way to read proc info in linux",
+            "Type": "APPLICATION"
+        },
+        "pylog": {
+            "Description": "The new python logger",
+            "Type": "LIBRARY"
+        },
+        "simplesign": {
+            "Description": "Easily sign or hash text messages using your private key and sha265 or any hashing algorithm.",
+            "Type": "APPLICATION"
+        },
+        "usage_tracer": {
+            "Description": "A simple computer statistics tracer.",
+            "Type": "APPLICATION"
+        },
+        "zip_crack": {
+            "Description": "A tool to crack zip files",
+            "Type": "APPLICATION"
+        },
+        "ArgTester": {
+            "Description": "Send loads of arguments to a program to test it responses.",
+            "Type": "APPLICATION"
+        },
+
+        "PingWatch": {
+            "Description": "A java tool to monitor ping time with coloured terminal output.",
+            "Type": "APPLICATION"
+        },
+        "JScan": {
+            "Description": "A MalwareBazaar hash scanner that scans a directory for files that match SHA256 hashes in the MalwareBazaar database.",
+            "Type": "APPLICATION"
+        },
+        "PixelCanvas": {
+            "Description": "A simple library that allows you to draw on a canvas in java. This can be used for creating interesting animations or games.",
+            "Type": "FRAMEWORK"
+        },
+        "XC": {
+            "Description": "XML Command Line Tool",
+            "Type": "APPLICATION"
+        }
+
+    }
+}
